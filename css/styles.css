@@ -1,3 +1,17 @@
 body {
-    background-color: yellow;
+    background-color: #deb741a8;
+}
+h1{
+    text-align: center;
+}
+.croissant {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
+footer a{
+    margin: 0 15px;
+    color: green;
 }
