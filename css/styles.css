@@ -15,3 +15,12 @@ footer a{
     margin: 0 15px;
     color: green;
 }
+.croissant-picture{
+    display: block;
+    margin: 60px auto;
+}
+
+.contact {
+    text-align: center;
+    margin: 30px 30px;
+}
